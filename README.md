@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [SimpliEd](https://app.simpliedtech.com/login)
 
-- 🌱 I’m currently learning **Advance NodeJS, Dockers, AWS**
+- 🌱 I’m currently learning **Advance NodeJS, Dockers, AWS, Contributing on Github, Advance MongoDB**
 
 - 💬 Ask me about **Angular, NodeJS, PHP, Data Science, Machine Learning, MongoDB, MySQL.**
 
