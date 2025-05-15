@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shahzeb Baig Soomro</h1>
-<h3 align="center">A passionate software engineer from Pakistan</h3>
+<h3 align="center">A passionate Senior Software Engineer from Pakistan</h3>
+
+<p align="center">I'm a passionate full-stack software engineer with 7+ years of experience, currently focused on building scalable EdTech and FinTech solutions using Angular, Node.js, and MongoDB. I thrive in fast-paced environments and love solving real-world problems through clean and efficient code.
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahzeb-soomro&label=Profile%20views&color=0e75b6&style=flat" alt="shahzeb-soomro" /> </p>
 
@@ -7,11 +10,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [SimpliEd](https://app.simpliedtech.com/login)
+- 🔭 I’m currently working at [Digital Gravity](https://www.digitalgravity.ae/)
 
-- 🌱 I’m currently learning **Advance NodeJS, Dockers, AWS, Contributing on Github, Advance MongoDB**
+- 🌱 I’m currently learning **NodeJS, Angular, React, TypeScript, NestJS, ExpressJS, Dockers, Kubernetes, AWS, Contributing on Github, MongoDB**
 
-- 💬 Ask me about **Angular, NodeJS, PHP, Data Science, Machine Learning, MongoDB, MySQL.**
+- 💬 Ask me about **Angular, NodeJS, PHP, Data Science, Machine Learning, MongoDB, MySQL, DevOps.**
 
 - 📫 How to reach me **shahzaibsoomro@gmail.com**
 
@@ -19,6 +22,9 @@
 <p align="left">
 <a href="https://linkedin.com/in/shahzeb-baig-soomro-27642468/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shahzeb-baig-soomro-27642468/" height="30" width="40" /></a>
 <a href="https://fb.com/shahzaib.soomro.33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/shahzaib.soomro.33" height="30" width="40" /></a>
+<a href="https://me.bitasync.io" target="blank">
+    <img align="center" src="https://img.icons8.com/ios-filled/50/000000/internet.png" alt="Portfolio" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
